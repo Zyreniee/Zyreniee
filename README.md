@@ -4,7 +4,7 @@
 
 ### Graphics Architecture | Bare-Metal C++ | Biomedical AI & Vision
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=800&lines=Deputy+CEO+%40+Pyrena;Architect+of+PyEngine+(C%2B%2B%2FVulkan);Biomedical+AI+%26+Computer+Vision;Bare-Metal+Optimization+Expert"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=800&lines=Deputy+CEO+%40+Pyrena Studios;Architect+of+PyEngine+(C%2B%2B%2FVulkan);Biomedical+AI+%26+Computer+Vision;Bare-Metal+Optimization+Expert"/>
 
 *“Optimizing reality, one matrix at a time.”*
 
