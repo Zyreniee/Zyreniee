@@ -75,5 +75,5 @@
 ## Analytics & Activity
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Zyreniee&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Zyreniee&theme=tokyonight&hide_border=true&background=0D1117&cache_seconds=0" />
 </p>
