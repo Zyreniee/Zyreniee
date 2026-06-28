@@ -71,7 +71,6 @@
 - **C++ Optimization Contracting:** Optimizing computational bottlenecks in Python/AI workflows by rewriting them in native C++ for maximum bare-metal performance.
 
 ---
-
 ## Analytics & Activity
 
 <p align="center">
